@@ -2,7 +2,7 @@
 <h3 align="center">A former researcher in chemistry, now student at 42 Lyon.</h3>
 
 - 🌱 I’m currently learning **C language**
-- 
+
 - 🔭 I’m currently working on [minishell](https://github.com/Mitsun0bu/minishell)
 
 - 🔭 I’m currently working on [haiku_generator](https://github.com/Mitsun0bu/haiku_generator)
