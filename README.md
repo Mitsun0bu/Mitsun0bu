@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitsunobu</h1>
+<h1 align="center">Hi 👋, I'm Mitsun0bu</h1>
 <h3 align="center">A former researcher in chemistry, now student at 42 Lyon.</h3>
 
 - 🌱 I’m currently learning **C language**
