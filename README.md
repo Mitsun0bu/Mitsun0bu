@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitsun0bu</h1>
 <h3 align="center">A former researcher in chemistry, now student at 42 Lyon.</h3>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C** and **Python**
 
 - 🔭 I’m currently working on [minishell](https://github.com/Mitsun0bu/minishell)
 
