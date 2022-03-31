@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [haiku_generator](https://github.com/Mitsun0bu/haiku_generator)
 
-- 📫 How to reach me **lucas.lethuillier@gmail.com**
+- 📫 My email address : **lucas.lethuillier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
