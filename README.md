@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [minishell](https://github.com/Mitsun0bu/minishell)
 
 - 🔭 I’m currently working on [42-AI_bootcamp_python](https://github.com/Mitsun0bu/42-AI_bootcamp_python)
-- 
+ 
 - 🔭 I’m currently working on [haiku_generator](https://github.com/Mitsun0bu/haiku_generator)
 
 - 📫 My email address : **lucas.lethuillier@gmail.com**
