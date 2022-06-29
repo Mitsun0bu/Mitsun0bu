@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C** and **Python**
 
-- 🔭 I’m currently working on [cub3D](https://github.com/Mitsun0bu/cub3D)
+- 🔭 I’m currently working on [CPP_piscine]([https://github.com/Mitsun0bu/cub3D](https://github.com/Mitsun0bu/CPP_piscine))
 
 - 🔭 I’m currently working on [42-AI_bootcamp_python](https://github.com/Mitsun0bu/42-AI_bootcamp_python)
  
