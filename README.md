@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C**, **C++** and **Python**
 
-- 🔭 I’m currently working on [CPP_piscine](https://github.com/Mitsun0bu/CPP_piscine), [42-AI_bootcamp_python](https://github.com/Mitsun0bu/42-AI_bootcamp_python) and [haiku_generator](https://github.com/Mitsun0bu/haiku_generator)
+- 🔭 I’m currently working on [42-CPP_piscine](https://github.com/Mitsun0bu/CPP_piscine), [42-AI_bootcamp_python](https://github.com/Mitsun0bu/42-AI_bootcamp_python) and [haiku_generator](https://github.com/Mitsun0bu/haiku_generator)
 
 - 📫 My email address : **lucas.lethuillier@gmail.com**
 
