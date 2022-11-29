@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Mitsun0bu's GitHub page !</h1>
 <h3 align="center">I am a former researcher in chemistry, now student at 42 Lyon.</h3>
 
-- 🌱 I’m currently learning **C**, **C++** and **Python**
+- 🌱 I’m currently learning **C**, **C++**, **Python**, **HTML**, **CSS** and **JavaScript**
 
 - 🔭 I’m currently working on [42-irc](https://github.com/Mitsun0bu/42-irc), [42-AI_bootcamp_python](https://github.com/Mitsun0bu/42-AI_bootcamp_python) and [haiku_generator](https://github.com/Mitsun0bu/haiku_generator)
 
