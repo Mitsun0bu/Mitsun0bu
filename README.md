@@ -28,5 +28,5 @@
 
 <p>&nbsp;
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitsun0bu&show_icons=true&locale=en" alt="mitsun0bu" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitsun0bu&layout=compact&theme=tokyonight&show_icons=true&locale=en" alt="mitsun0bu" /></p>
 
