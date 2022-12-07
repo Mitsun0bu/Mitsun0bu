@@ -26,7 +26,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsun0bu&layout=compact&theme=tokyonight" alt="Mitsun0bu's github stats" height="30%" width="40%">
 
-<p>&nbsp;
-  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitsun0bu&layout=compact&theme=tokyonight&show_icons=true&locale=en" alt="mitsun0bu" /></p>
 
