@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C**, **C++**, **Python**, **HTML**, **CSS** and **JavaScript**
 
-- 🔭 I’m currently doing an internship as a Software Engineer at Expressive E (Marseille, France)
+- 🔭 I’m currently doing an internship as a Embedded Software Engineer at Expressive E (Marseille, France)
 
 - 📫 My email address : **lucas.lethuillier@gmail.com**
 
