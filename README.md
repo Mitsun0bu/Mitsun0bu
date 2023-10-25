@@ -33,7 +33,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsun0bu&layout=compact&theme=tokyonight" alt="Mitsun0bu's github stats" height="30%" width="40%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mitsun0bu&layout=compact&theme=tokyonight&show_icons=true&locale=en" alt="mitsun0bu" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsun0bu&layout=compact&theme=tokyonight" alt="Mitsun0bu's github stats" height="30%" width="40%">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitsun0bu&layout=compact&theme=tokyonight&show_icons=true&locale=en" alt="mitsun0bu" /></p>
 
