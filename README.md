@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to Mitsun0bu's GitHub page !</h1>
-<h3 align="center">I am a former researcher in chemistry, now student at 42 Lyon.</h3>
+<h1 align="center">~~~ Mitsun0bu's GitHub page ~~~</h1>
+<h3 align="center">Embedded Software Engineer at Expressive E (Marseille, France).</h3>
 
-- 🌱 I’m currently learning mostly **C**, **C++**, and **Python**
+- 🌱 Writing mostly **C**, **C++**, and **Python**
 
-- 🔭 I’m currently doing an internship as a Embedded Software Engineer at Expressive E (Marseille, France)
+- 🔭 Embedded Software Engineer at Expressive E (Marseille, France)
 
 - 📫 My email address : **lucas.lethuillier@gmail.com**
 
