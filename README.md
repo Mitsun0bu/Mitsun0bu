@@ -40,14 +40,3 @@
 </p>
 
 ---
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mitsun0bu&layout=compact&theme=tokyonight&show_icons=true&locale=en" alt="Mitsun0bu GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsun0bu&layout=compact&theme=tokyonight" alt="Mitsun0bu top languages" />
-    </td>
-  </tr>
-</table>
