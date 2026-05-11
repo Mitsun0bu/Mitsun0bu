@@ -1,4 +1,4 @@
-<h1 align="center">~~~ Mitsun0bu's GitHub page ~~~</h1>
+<h1 align="center">Mitsun0bu's GitHub page</h1>
 
 - 🔭 Embedded Software Engineer at Expressive E (Marseille, France)
 - 🌱 Writing mostly **C**/**C++**, and **Python**
